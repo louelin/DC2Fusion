@@ -25,8 +25,8 @@ images enhances the information available to physicians and researchers,
 thus marking a significant step forward in the field. 
 
 
-![network](imgs\network.png)
-![network](imgs\Position_Relationship.png)
+![network](https://github.com/louelin/DC2Fsuion/blob/main/imgs/network.png)
+![network](https://github.com/louelin/DC2Fsuion/blob/main/imgs/Position_Relationship.png)
 
 
 ## ADNI Dataset
@@ -43,7 +43,7 @@ python train_diff.py --alpha1 2 --alpha2 1 --beta1 2 --beta2 1 --gamma1 2 --gamm
 ```cmd
 python infer_sigleImage.py
 ```
-![result](imgs\result.png)
+![result](https://github.com/louelin/DC2Fsuion/blob/main/imgs/result.png)
 
 ## Citation
 If you find this code is useful in your research, please consider to cite:
