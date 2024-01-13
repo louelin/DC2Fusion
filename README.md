@@ -43,7 +43,7 @@ python train_diff.py --alpha1 2 --alpha2 1 --beta1 2 --beta2 1 --gamma1 2 --gamm
 ```cmd
 python infer_sigleImage.py
 ```
-![network](imgs\result.png)
+![result](imgs\result.png)
 
 ## Citation
 If you find this code is useful in your research, please consider to cite:
@@ -51,7 +51,7 @@ If you find this code is useful in your research, please consider to cite:
 ```
 @InProceedings{10.1007/978-981-99-8141-0_41,
 author="Liu, Lin and Fan, Xinxin and Zhang, Chulong and Dai, Jingjing and Xie, Yaoqin and Liang, Xiaokun",
-title="Three-Dimensional Medical Image Fusion with Deformable Cross-Attention",
+title="Three-Dimensional Medical Image Fusion with Deformable Cross-Attention",
 booktitle="Neural Information Processing",
 year="2024",
 publisher="Springer Nature Singapore",
